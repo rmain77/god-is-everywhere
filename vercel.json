@@ -1,0 +1,8 @@
+{
+  "builds": [
+    {
+      "src": "GodIsEverywhere_Companion.jsx",
+      "use": "@vercel/static-build"
+    }
+  ]
+}
